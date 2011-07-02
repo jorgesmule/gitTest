@@ -1,1 +1,2 @@
 Adding some content
+Adding new content while having a branch 
